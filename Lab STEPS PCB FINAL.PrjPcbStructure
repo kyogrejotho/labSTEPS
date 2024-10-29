@@ -1,4 +1,3 @@
 Record=TopLevelDocument|FileName=connectors_headers_LEDs.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=current_signal_adaptation.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=pwm_buffers_fault_sig.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=voltage_signal_adaptation.SchDoc|SheetNumber=4
