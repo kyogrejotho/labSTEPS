@@ -84,23 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Offset_7pt5.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=projectPCB_v1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=pwm_buffers_fault_sig.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,25 +117,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVQRIBGN
 
-[Document6]
-DocumentPath=Sheet2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WLFLUHJE
-
-[Document7]
-DocumentPath=Sheet3.SchDoc
+[Document5]
+DocumentPath=current_signal_adaptation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,8 +134,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXZKAYWZ
 
-[Document8]
-DocumentPath=signal_adaptation_block_Tine.SchDoc
+[Document6]
+DocumentPath=voltage_signal_adaptation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXBIXYNA
 
-[Document9]
+[Document7]
 DocumentPath=FSM8JH_tactile.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document8]
 DocumentPath=LM317T_NOPB.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=LM393N.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=LM7805CT_NOPB.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=PushButton.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=Libraries\FSM8JH_tactile.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=Libraries\LM317T_NOPB.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=Libraries\LM393N.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=Libraries\LM7805CT_NOPB.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=Libraries\Miscellaneous Connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=Libraries\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=Libraries\PushButton.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
