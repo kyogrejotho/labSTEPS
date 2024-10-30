@@ -1,6 +1,3 @@
 Record=TopLevelDocument|FileName=connectors_headers_LEDs.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=Offset_7pt5.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=pwm_buffers_fault_sig.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=Sheet3.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=signal_adaptation_block_Tine.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=current_signal_adaptation.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=pwm_buffers_fault_sig.SchDoc|SheetNumber=2
