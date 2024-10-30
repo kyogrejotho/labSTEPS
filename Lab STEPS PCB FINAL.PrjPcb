@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 ConstraintManagerFlow=0
-IsVirtualBomDocumentRemoved=0
+IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -136,8 +136,11 @@ DocumentUniqueId=HXZKAYWZ
 
 [Document6]
 <<<<<<< HEAD
+<<<<<<< HEAD
 DocumentPath=Sheet3.SchDoc
 =======
+=======
+>>>>>>> 4a5c789b1fdbab3f14f1d9036cd4ea567a2a9f4d
 DocumentPath=FSM8JH_tactile.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +159,10 @@ DocumentUniqueId=
 
 [Document7]
 DocumentPath=LM317T_NOPB.IntLib
+<<<<<<< HEAD
 >>>>>>> c569cd63fe1b22d1a7f6cb4826f4321c4afd0fba
+=======
+>>>>>>> 4a5c789b1fdbab3f14f1d9036cd4ea567a2a9f4d
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -173,9 +179,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Document7]
 DocumentPath=signal_adaptation_block_Tine.SchDoc
 =======
+=======
+>>>>>>> 4a5c789b1fdbab3f14f1d9036cd4ea567a2a9f4d
 [Document8]
 DocumentPath=LM393N.IntLib
 AnnotationEnabled=1
@@ -331,7 +340,27 @@ DocumentUniqueId=
 
 [Document17]
 DocumentPath=Libraries\PushButton.IntLib
+<<<<<<< HEAD
 >>>>>>> c569cd63fe1b22d1a7f6cb4826f4321c4afd0fba
+=======
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=Lab STEPS PCB FINAL.PrjPcbStructure
+>>>>>>> 4a5c789b1fdbab3f14f1d9036cd4ea567a2a9f4d
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -556,6 +585,12 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=PDF3D MBA
+OutputName13=PDF3D MBA
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -822,6 +857,16 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
+OutputType11=MBAExportPARASOLID
+OutputName11=Export PARASOLID
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=MBAExportSTEP
+OutputName12=Export STEP
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
