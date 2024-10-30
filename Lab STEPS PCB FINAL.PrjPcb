@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -107,7 +107,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -124,7 +124,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -135,13 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HXZKAYWZ
 
 [Document6]
-<<<<<<< HEAD
-<<<<<<< HEAD
 DocumentPath=Sheet3.SchDoc
-=======
-=======
->>>>>>> 4a5c789b1fdbab3f14f1d9036cd4ea567a2a9f4d
-DocumentPath=FSM8JH_tactile.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -159,10 +153,6 @@ DocumentUniqueId=
 
 [Document7]
 DocumentPath=LM317T_NOPB.IntLib
-<<<<<<< HEAD
->>>>>>> c569cd63fe1b22d1a7f6cb4826f4321c4afd0fba
-=======
->>>>>>> 4a5c789b1fdbab3f14f1d9036cd4ea567a2a9f4d
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -178,13 +168,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Document7]
-DocumentPath=signal_adaptation_block_Tine.SchDoc
-=======
-=======
->>>>>>> 4a5c789b1fdbab3f14f1d9036cd4ea567a2a9f4d
 [Document8]
 DocumentPath=LM393N.IntLib
 AnnotationEnabled=1
@@ -340,9 +323,6 @@ DocumentUniqueId=
 
 [Document17]
 DocumentPath=Libraries\PushButton.IntLib
-<<<<<<< HEAD
->>>>>>> c569cd63fe1b22d1a7f6cb4826f4321c4afd0fba
-=======
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -360,7 +340,6 @@ DocumentUniqueId=
 
 [Document18]
 DocumentPath=Lab STEPS PCB FINAL.PrjPcbStructure
->>>>>>> 4a5c789b1fdbab3f14f1d9036cd4ea567a2a9f4d
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
