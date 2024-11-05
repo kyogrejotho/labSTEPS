@@ -1,3 +1,10 @@
-Record=TopLevelDocument|FileName=connectors_headers_LEDs.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=current_signal_adaptation.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=connectors_headers_LEDs.SchDoc|FileName=pwm_buffers_fault_sig.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Comparator.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Comparator.SchDoc|FileName=Connector 1.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Comparator.SchDoc|FileName=Connector 2.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Comparator.SchDoc|FileName=connectors_headers_LEDs.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Comparator.SchDoc|FileName=current_signal_adaptation.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Comparator.SchDoc|FileName=current_signal_adaptation_2.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Comparator.SchDoc|FileName=current_signal_adaptation_3.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Comparator.SchDoc|FileName=PWM Drivers.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Comparator.SchDoc|FileName=pwm_buffers_fault_sig.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Comparator.SchDoc|FileName=Supplies.SchDoc|SheetNumber=9
