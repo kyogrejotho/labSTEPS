@@ -441,6 +441,23 @@ GenerateClassCluster=0
 DocumentUniqueId=VUHSOOVK
 
 [Document24]
+DocumentPath=Header.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UBHNCQTJ
+
+[Document25]
 DocumentPath=OnePieceBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -455,7 +472,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EPINBJGQ
+DocumentUniqueId=JWMKPAVS
 
 [Configuration1]
 Name=Sources
